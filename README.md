@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Further Ideas for Improvement ###
+
+- Add persistent state to allow reloading without logging in
+
+- Add log out feature once logged in
+
+- Add emoji button functionality
+
+- Add mic button functionality
