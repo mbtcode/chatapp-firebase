@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
+
+# Visit the link below for a live demo of the app hosted by firebase #
+App: https://chatapp-firebase-c68e5.web.app/
 
 ## Available Scripts
 
