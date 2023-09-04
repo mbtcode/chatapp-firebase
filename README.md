@@ -15,5 +15,5 @@ https://chatapp-firebase-c68e5.web.app/
 
 
 ### Future Plans for Development:
-- Add functionality for buttons on the sidebar and main chat
-- Add options to receive alerts via email
+Add functionality for buttons on the sidebar and main chat
+Add options to receive alerts via email
