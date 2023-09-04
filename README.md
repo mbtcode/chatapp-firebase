@@ -1,6 +1,6 @@
 After forking the project you can run this locally.
 
-### Use the command below to run locally
+### Use the command below to run locally:
 `npm start`
 
 Runs the app in the development mode.\
@@ -13,7 +13,7 @@ This sets up the client to run on your local browser.
 
 
 
-### You can view a demo app at the link below
+### You can view a demo app at the link below:
 
 https://chatapp-firebase-c68e5.web.app/
 
