@@ -1,7 +1,7 @@
 After forking the project you can run this locally.
 
 ### Use the command below to run locally
-'npm start'
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
